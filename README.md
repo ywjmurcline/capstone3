@@ -182,9 +182,13 @@ port的两个值和Arduino板子里装了的程序有关，不要改！
 ![alt text](line.png "Title")
 
 眼镜：
+
 灰色：地线，接任意GND
+
 橙色：电压，接vin或者5V（在GND两侧）
+
 红色：接A4
+
 蓝色：接A5
 
 
