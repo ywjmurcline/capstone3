@@ -205,7 +205,7 @@ participant里会写enter your name。把它改成被试的名字。填一次就
 注意这个其实不是真的video_id，而是本次试验里第n个视频的意思。
 
 6. 如果报错```assert len(rows) > 1, f"{name} No data yet."```相关的，这是PPG的数据记录失败。
-如果看到finger No data yet. 就把finger arduino连电脑的线（最好是电脑那一端）拔了再插一下。glass同理。
+如果看到finger No data yet. 就把finger arduino板子连电脑的线（最好是电脑那一端）拔了再插一下。glass同理。
 
 
 ### 代码说明补充
