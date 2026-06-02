@@ -164,9 +164,11 @@ async def main():
 4. exp_data_dir是实验的数据存储的地方，每次实验记得换一个文件夹。
 我喜欢在1_data_archive里设置一个子文件夹。
 
-5. emo_tags_activation是设置这次测多少情绪种类，都写成True就好了，否则可能会报错（因为有些依赖代码没改）。
+5. video_csv就是5_stimulation_material里的csv，包括所有要用的视频素材的各种meta数据。
 
-6. use_arduino是设置是否使用arduino。
+6. emo_tags_activation是设置这次测多少情绪种类，都写成True就好了，否则可能会报错（因为有些依赖代码没改）。
+
+7. use_arduino是设置是否使用arduino。
 serial_port不同的电脑不一样，要改成自己电脑的。
 port的两个值和Arduino板子里装了的程序有关，不要改！
 其中贴了黄色贴纸的是眼镜的板子。
@@ -198,11 +200,11 @@ port的两个值和Arduino板子里装了的程序有关，不要改！
 2. 记得开摄像头（从头录到尾）。
 
 3. 程序会问被试的名字。
-participant里会写enter your name。把它改成被试的名字。填一次就行，之后它会记住。名字会被写在ppg数据的文件名里，是很重要的区分被试方式。请写英文的。
+participant里会写enter your name。把它改成被试的名字。填一次就行，之后它会记住。名字会被写在ppg数据的文件名里，是很重要的区分被试方式。请写英文的，不要有空格。
 
 4. 只需要跑demo3.py。
 但要在4_psychopy_data_collector_double_ppg目录下跑，否则image文件夹里的图片会找不到，因为写的是相对路径。
-如果找不到图片，体现为视频播完后没有出现让被试选择valence和aroual的界面，直接退出。
+如果找不到图片，体现为视频播完后没有出现让被试选择valence和arousal的界面，直接退出。
 同时Terminal里可以看到报错。
 5. 手指的PPG容易松，每次看一下灯亮着再采。手指按上去也可以看见灯亮不亮的，不亮了就重来。尽量不动那只手会比较稳定。
 重来的方法就是
