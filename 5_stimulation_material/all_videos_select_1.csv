@@ -1,0 +1,28 @@
+id,video_name,tag,tag_cn,absolute_path,frame_width,frame_height,duration_seconds,url,source_dataset,background_type,background_content
+emognition_1,1,Trial,Trial,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/intro_videos/1.avi,512,368,106.36,,DECAF,,
+emognition_2,2,Trial,Trial,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/intro_videos/2.avi,1024,576,76.533,,DECAF,,
+decaf_6,6,Amusing,好笑,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVHA/6.wmv,720,480,117.546,,DECAF,内容,一个人试图停车
+decaf_9,9,Amusing,好笑,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVHA/9.avi,624,336,70.237,,DECAF,,
+decaf_16,16,Amusing,激动,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/16.avi,352,176,58.625,,DECAF,,
+emognition_amusement,amusement,Amusing,好笑,/Users/lily/Documents/capstone/Code/videos/Emognition/amusement.mp4,1280,720,120.12,,DECAF,,
+decaf_15,15,Happy,开心,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/15.mp4,2604,1080,90.507,,DECAF,,
+decaf_12,12,Happy,开心,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/12.mp4,1542,1080,91.508,,DECAF,内容,两个机器人Eva和Wall-E在太空中玩耍
+decaf_13,13,Happy,开心,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/13.avi,720,304,51.468,,DECAF,,
+decaf_34,34,Disgust,恶心,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/34.avi,480,272,60.761,,DECAF,,
+emognition_disgust,disgust,Disgust,恶心,/Users/lily/Documents/capstone/Code/videos/Emognition/disgust.mp4,1280,720,68.56,,DECAF,,
+decaf_30,30,Fear,害怕,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/30.mp4,480,336,78.215,,DECAF,,
+decaf_36,36,Fear,害怕,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/36.avi,480,272,62.96,,DECAF,,
+decaf_27,27,Sad,悲伤,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVLA/27.mp4,1542,1080,71.36,,DECAF,前情提要,船难后，救援队抵达
+emognition_sadness,sadness,Sad,悲伤,/Users/lily/Documents/capstone/Code/videos/Emognition/sadness.mp4,1440,1080,150.86,,DECAF,内容,拳击手Champ和儿子TJ相依为命，儿子很崇拜父亲。 但前妻嫁正以能给TJ更好的生活为由=理由，争夺抚养权。 为了维持对儿子TJ的抚养权，Champ重新回到赛场。 当晚，对手非常强劲，Champ虽然赢得了前两场， 但被打中头部多次，被医生送到休息室。
+decaf_19,19,Anger,生气,/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVLA/19.wmv,640,480,120.832,,DECAF,,
+emognition_neutral,neutral,Neutral,中性,/Users/lily/Documents/capstone/Code/videos/Emognition/neutral.mp4,1280,720,121.76,,DECAF,内容,一个女性的日常，她买了日用品走回公寓
+SEED_1408,1408,Fear,害怕,/Users/lily/Documents/capstone/Code/videos/SEED/edited/1408.mp4,2010,1080,124.533,,SEED,,
+SEED_annabel,annabel,Fear,害怕,/Users/lily/Documents/capstone/Code/videos/SEED/edited/annabel.mp4,1920,1080,120.967,,SEED,,
+SEED_braindead,braindead,Disgust,恶心,/Users/lily/Documents/capstone/Code/videos/SEED/edited/braindead.mp4,1920,1080,44.067,,SEED,,
+SEED_dearest,dearest,Sad,悲伤,/Users/lily/Documents/capstone/Code/videos/SEED/edited/dearest.mp4,1920,1080,127.867,,SEED,,
+SEED_foster_father2,foster_father2,Sad,悲伤,/Users/lily/Documents/capstone/Code/videos/SEED/edited/foster_father2.mp4,1920,1080,124,,SEED,,
+SEED_mountain2,mountain2,Neutral,中性,/Users/lily/Documents/capstone/Code/videos/SEED/edited/mountain2.mp4,1920,1080,101.767,,SEED,,
+SEED_shanzhashu,shanzhashu,Happy,开心,/Users/lily/Documents/capstone/Code/videos/SEED/edited/shanzhashu.mp4,2560,1080,81.033,,SEED,,
+SEED_tangshan,tangshan,Sad,悲伤,/Users/lily/Documents/capstone/Code/videos/SEED/edited/tangshan.mp4,1920,1080,147.5,,SEED,,
+SEED_yuanlin13,yuanlin13,Neutral,中性,/Users/lily/Documents/capstone/Code/videos/SEED/edited/yuanlin13.mp4,1920,1080,120.1,,SEED,,
+SEED_zaijianjinhualu,zaijianjinhualu,Happy,开心,/Users/lily/Documents/capstone/Code/videos/SEED/edited/zaijianjinhualu.mp4,1926,1080,129.467,,SEED,,
