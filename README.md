@@ -131,16 +131,20 @@ path/to/5_stimulation_materials
 ```
 
 ### Step 2
-把all_videos_select_1.csv里absolute_path那一列改成当下电脑的absolute_path
+把all_videos_select_1.csv里absolute_path那一列改成当下电脑的absolute_path。
+
+做一个replace把`/Users/lily/Documents/capstone/Code/videos`换掉。
 
 ### Step 3
-在demo3.py文件里
-3个class，Config，VideoManager，ExpManager的定义都不需要改
-Config只负责纪录实验设置的
-VideoManager是负责记录每一条视频有没有被看过，现在看到哪里了的
-ExpManager是整体的控制，会根据实验设置生成文件夹等
+在demo3.py文件里3个class：Config，VideoManager，ExpManager的定义都不需要改，折叠掉就可以了。
 
-所有实验有关的设置都在206行
+Config只负责纪录实验设置的；
+
+VideoManager是负责记录每一条视频有没有被看过，现在看到哪里了的；
+
+ExpManager是整体的控制，会根据实验设置生成文件夹等。
+
+所有实验有关的设置都在206行：
 ```python
 async def main():
     exp_config = Config(
