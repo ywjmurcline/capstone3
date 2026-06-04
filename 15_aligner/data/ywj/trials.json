@@ -1,0 +1,827 @@
+[
+  {
+    "index": 0,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_0_ywj_2026-05-31 14:50:16.150781.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_0_ywj_2026-05-31 14:50:16.150781.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_0_ywj_2026-05-31 14:50:16.150781.csv",
+      "ultra_sound_washout": "0.pcm",
+      "ultra_sound_video": "1.pcm"
+    },
+    "error": [],
+    "video_file": "",
+    "participant": "",
+    "ground_truth": {
+      "valence": null,
+      "arousal": null,
+      "emotion_tag": {}
+    },
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 2,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_2_ywj_2026-05-31 14:54:25.254380.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_2_ywj_2026-05-31 14:54:25.254380.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_2_ywj_2026-05-31 14:54:25.254380.csv",
+      "ultra_sound_washout": "2.pcm",
+      "ultra_sound_video": "3.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/1408.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 3.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 2.0,
+        "sad": 0.0,
+        "happy": 1.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Fear"
+    },
+    "duration_seconds": 124.533,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 3,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_3_ywj_2026-05-31 15:03:48.872637.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_3_ywj_2026-05-31 15:03:48.872637.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_3_ywj_2026-05-31 15:03:48.872637.csv",
+      "ultra_sound_washout": "4.pcm",
+      "ultra_sound_video": "5.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/braindead.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 7.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 3.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Disgust"
+    },
+    "duration_seconds": 44.067,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 4,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_4_ywj_2026-05-31 15:06:14.308448.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_4_ywj_2026-05-31 15:06:14.308448.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_4_ywj_2026-05-31 15:06:14.308448.csv",
+      "ultra_sound_washout": "6.pcm",
+      "ultra_sound_video": "7.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/Emognition/disgust.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 2.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 2.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Disgust"
+    },
+    "duration_seconds": 68.56,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 5,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_5_ywj_2026-05-31 15:09:06.867599.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_5_ywj_2026-05-31 15:09:06.867599.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_5_ywj_2026-05-31 15:09:06.867599.csv",
+      "ultra_sound_washout": "8.pcm",
+      "ultra_sound_video": "9.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/30.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 4.0,
+      "arousal": 2.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 1.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 2.0
+      },
+      "emotion_tag_reference": "Fear"
+    },
+    "duration_seconds": 78.215,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 6,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_6_ywj_2026-05-31 15:12:44.413178.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_6_ywj_2026-05-31 15:12:44.413178.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_6_ywj_2026-05-31 15:12:44.413178.csv",
+      "ultra_sound_washout": "10.pcm",
+      "ultra_sound_video": "11.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/34.avi",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 7.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 5.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Disgust"
+    },
+    "duration_seconds": 60.761,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 7,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_7_ywj_2026-05-31 15:17:46.251791.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_7_ywj_2026-05-31 15:17:46.251791.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_7_ywj_2026-05-31 15:17:46.251791.csv",
+      "ultra_sound_washout": "12.pcm",
+      "ultra_sound_video": "13.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/mountain2.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 3.0,
+      "arousal": 1.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Neutral"
+    },
+    "duration_seconds": 101.767,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 8,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_8_ywj_2026-05-31 15:29:10.245802.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_8_ywj_2026-05-31 15:29:10.245802.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_8_ywj_2026-05-31 15:29:10.245802.csv",
+      "ultra_sound_washout": "14.pcm",
+      "ultra_sound_video": "15.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVHA/36.avi",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 6.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 4.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Fear"
+    },
+    "duration_seconds": 62.96,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 9,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_9_ywj_2026-05-31 15:36:16.462157.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_9_ywj_2026-05-31 15:36:16.462157.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_9_ywj_2026-05-31 15:36:16.462157.csv",
+      "ultra_sound_washout": "16.pcm",
+      "ultra_sound_video": "17.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/yuanlin13.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 4.0,
+      "arousal": 1.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 3.0
+      },
+      "emotion_tag_reference": "Neutral"
+    },
+    "duration_seconds": 120.1,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 10,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_10_ywj_2026-05-31 15:42:22.706642.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_10_ywj_2026-05-31 15:42:22.706642.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_10_ywj_2026-05-31 15:42:22.706642.csv",
+      "ultra_sound_washout": "18.pcm",
+      "ultra_sound_video": "19.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/Emognition/neutral.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 4.0,
+      "arousal": 1.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 3.0
+      },
+      "emotion_tag_reference": "Neutral"
+    },
+    "duration_seconds": 121.76,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 11,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_11_ywj_2026-05-31 15:46:05.309046.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_11_ywj_2026-05-31 15:46:05.309046.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_11_ywj_2026-05-31 15:46:05.309046.csv",
+      "ultra_sound_washout": "20.pcm",
+      "ultra_sound_video": "21.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVLA/19.wmv",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 2.0,
+      "arousal": 2.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 1.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 1.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Anger"
+    },
+    "duration_seconds": 120.832,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 12,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_12_ywj_2026-05-31 15:49:45.530329.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_12_ywj_2026-05-31 15:49:45.530329.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_12_ywj_2026-05-31 15:49:45.530329.csv",
+      "ultra_sound_washout": "22.pcm",
+      "ultra_sound_video": "23.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/Emognition/amusement.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 3.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Amusing"
+    },
+    "duration_seconds": 120.12,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 13,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_13_ywj_2026-05-31 15:53:15.936282.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_13_ywj_2026-05-31 15:53:15.936282.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_13_ywj_2026-05-31 15:53:15.936282.csv",
+      "ultra_sound_washout": "24.pcm",
+      "ultra_sound_video": "25.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVHA/6.wmv",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 3.0,
+      "emotion_tag": {
+        "amusing": 4.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Amusing"
+    },
+    "duration_seconds": 117.546,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 14,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_14_ywj_2026-05-31 15:56:56.734601.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_14_ywj_2026-05-31 15:56:56.734601.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_14_ywj_2026-05-31 15:56:56.734601.csv",
+      "ultra_sound_washout": "26.pcm",
+      "ultra_sound_video": "27.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVHA/9.avi",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 6.0,
+      "emotion_tag": {
+        "amusing": 5.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Amusing"
+    },
+    "duration_seconds": 70.237,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 15,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_15_ywj_2026-05-31 15:59:43.279401.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_15_ywj_2026-05-31 15:59:43.279401.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_15_ywj_2026-05-31 15:59:43.279401.csv",
+      "ultra_sound_washout": "28.pcm",
+      "ultra_sound_video": "29.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/16.avi",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 5.0,
+      "arousal": 3.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 4.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Amusing"
+    },
+    "duration_seconds": 58.625,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 16,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_16_ywj_2026-05-31 16:02:21.366964.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_16_ywj_2026-05-31 16:02:21.366964.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_16_ywj_2026-05-31 16:02:21.366964.csv",
+      "ultra_sound_washout": "30.pcm",
+      "ultra_sound_video": "31.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/Emognition/sadness.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 4.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 4.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Sad"
+    },
+    "duration_seconds": 150.86,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 17,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_17_ywj_2026-05-31 16:06:43.195705.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_17_ywj_2026-05-31 16:06:43.195705.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_17_ywj_2026-05-31 16:06:43.195705.csv",
+      "ultra_sound_washout": "32.pcm",
+      "ultra_sound_video": "33.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/tangshan.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 6.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 4.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Sad"
+    },
+    "duration_seconds": 147.5,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 18,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_18_ywj_2026-05-31 16:14:52.292866.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_18_ywj_2026-05-31 16:14:52.292866.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_18_ywj_2026-05-31 16:14:52.292866.csv",
+      "ultra_sound_washout": "34.pcm",
+      "ultra_sound_video": "35.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/foster_father2.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 3.0,
+      "arousal": 1.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 1.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 1.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Sad"
+    },
+    "duration_seconds": 124.0,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 19,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_19_ywj_2026-05-31 16:18:48.985569.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_19_ywj_2026-05-31 16:18:48.985569.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_19_ywj_2026-05-31 16:18:48.985569.csv",
+      "ultra_sound_washout": "36.pcm",
+      "ultra_sound_video": "37.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/dearest.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 4.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 3.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 3.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Sad"
+    },
+    "duration_seconds": 127.867,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 20,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_20_ywj_2026-05-31 16:24:17.977881.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_20_ywj_2026-05-31 16:24:17.977881.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_20_ywj_2026-05-31 16:24:17.977881.csv",
+      "ultra_sound_washout": "38.pcm",
+      "ultra_sound_video": "39.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/LVLA/27.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 2.0,
+      "arousal": 4.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 4.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Sad"
+    },
+    "duration_seconds": 71.36,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 21,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_21_ywj_2026-05-31 16:27:26.705319.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_21_ywj_2026-05-31 16:27:26.705319.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_21_ywj_2026-05-31 16:27:26.705319.csv",
+      "ultra_sound_washout": null,
+      "ultra_sound_video": null
+    },
+    "error": [
+      "ultra_sound_washout_missing",
+      "ultra_sound_video_missing"
+    ],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/15.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 3.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 4.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Happy"
+    },
+    "duration_seconds": 51.08,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 22,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_22_ywj_2026-05-31 16:29:46.472578.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_22_ywj_2026-05-31 16:29:46.472578.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_22_ywj_2026-05-31 16:29:46.472578.csv",
+      "ultra_sound_washout": "42.pcm",
+      "ultra_sound_video": "43.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/zaijianjinhualu.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 6.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 4.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Happy"
+    },
+    "duration_seconds": 129.467,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 23,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_23_ywj _2026-05-31 16:33:48.748656.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_23_ywj _2026-05-31 16:33:48.748656.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_23_ywj _2026-05-31 16:33:48.748656.csv",
+      "ultra_sound_washout": "44.pcm",
+      "ultra_sound_video": "45.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/annabel.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 1.0,
+      "arousal": 7.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 5.0,
+        "sad": 0.0,
+        "happy": 0.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Fear"
+    },
+    "duration_seconds": 120.967,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 24,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_24_ywj _2026-05-31 16:37:29.472414.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_24_ywj _2026-05-31 16:37:29.472414.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_24_ywj _2026-05-31 16:37:29.472414.csv",
+      "ultra_sound_washout": "46.pcm",
+      "ultra_sound_video": "47.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/SEED/edited/shanzhashu.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 6.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 5.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Happy"
+    },
+    "duration_seconds": 81.033,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 25,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_25_ywj _2026-05-31 16:40:37.841242.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_25_ywj _2026-05-31 16:40:37.841242.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_25_ywj _2026-05-31 16:40:37.841242.csv",
+      "ultra_sound_washout": "48.pcm",
+      "ultra_sound_video": "49.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/12.mp4",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 5.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Happy"
+    },
+    "duration_seconds": 91.508,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  },
+  {
+    "index": 26,
+    "ori_file_path": {
+      "psychopy_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/psychopy/psychopy_emotion_video_task_26_ywj _2026-05-31 16:43:51.165197.csv",
+      "finger_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_finger_emotion_video_task_26_ywj _2026-05-31 16:43:51.165197.csv",
+      "glass_ppg_path": "/Users/lily/Documents/myApps/Capstone_Saveme/1_data_archive/534/bio_data/ppg/ppg_glass_emotion_video_task_26_ywj _2026-05-31 16:43:51.165197.csv",
+      "ultra_sound_washout": "50.pcm",
+      "ultra_sound_video": "51.pcm"
+    },
+    "error": [],
+    "video_file": "/Users/lily/Documents/capstone/Code/videos/DECAF/Videos-DECAF/Video Stimuli/HVLA/13.avi",
+    "participant": "ywj",
+    "ground_truth": {
+      "valence": 7.0,
+      "arousal": 5.0,
+      "emotion_tag": {
+        "amusing": 0.0,
+        "anger": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "sad": 0.0,
+        "happy": 5.0,
+        "neutral": 0.0
+      },
+      "emotion_tag_reference": "Happy"
+    },
+    "duration_seconds": 51.468,
+    "ultrasound_offset": {
+      "washout": 0,
+      "video": 0
+    }
+  }
+]

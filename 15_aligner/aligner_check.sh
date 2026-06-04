@@ -1,0 +1,1 @@
+python aligner_check.py /Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/test_npz
