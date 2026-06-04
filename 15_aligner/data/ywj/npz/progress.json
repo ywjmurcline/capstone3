@@ -1,0 +1,293 @@
+{
+  "0": {
+    "index": 0,
+    "finger_ppg": false,
+    "glass_ppg": false,
+    "ultrasound_washout": false,
+    "ultrasound_video": false,
+    "eye_tracking": false,
+    "errors": [
+      "Arduino VIDEO_START 和 VIDEO_END 均缺失，文件: ppg_finger_emotion_video_task_0_ywj_2026-05-31 14:50:16.150781.csv"
+    ],
+    "npz": null,
+    "skipped": true
+  },
+  "2": {
+    "index": 2,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_2.npz",
+    "skipped": false
+  },
+  "3": {
+    "index": 3,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_3.npz",
+    "skipped": false
+  },
+  "4": {
+    "index": 4,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_4.npz",
+    "skipped": false
+  },
+  "5": {
+    "index": 5,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_5.npz",
+    "skipped": false
+  },
+  "6": {
+    "index": 6,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_6.npz",
+    "skipped": false
+  },
+  "7": {
+    "index": 7,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_7.npz",
+    "skipped": false
+  },
+  "8": {
+    "index": 8,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_8.npz",
+    "skipped": false
+  },
+  "9": {
+    "index": 9,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_9.npz",
+    "skipped": false
+  },
+  "10": {
+    "index": 10,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_10.npz",
+    "skipped": false
+  },
+  "11": {
+    "index": 11,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_11.npz",
+    "skipped": false
+  },
+  "12": {
+    "index": 12,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_12.npz",
+    "skipped": false
+  },
+  "13": {
+    "index": 13,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_13.npz",
+    "skipped": false
+  },
+  "14": {
+    "index": 14,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_14.npz",
+    "skipped": false
+  },
+  "15": {
+    "index": 15,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_15.npz",
+    "skipped": false
+  },
+  "16": {
+    "index": 16,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_16.npz",
+    "skipped": false
+  },
+  "17": {
+    "index": 17,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_17.npz",
+    "skipped": false
+  },
+  "18": {
+    "index": 18,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_18.npz",
+    "skipped": false
+  },
+  "19": {
+    "index": 19,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_19.npz",
+    "skipped": false
+  },
+  "20": {
+    "index": 20,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_20.npz",
+    "skipped": false
+  },
+  "21": {
+    "index": 21,
+    "finger_ppg": false,
+    "glass_ppg": false,
+    "ultrasound_washout": false,
+    "ultrasound_video": false,
+    "eye_tracking": false,
+    "errors": [
+      "[trial.json] ultra_sound_washout_missing",
+      "[trial.json] ultra_sound_video_missing"
+    ],
+    "npz": null,
+    "skipped": true
+  },
+  "22": {
+    "index": 22,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_22.npz",
+    "skipped": false
+  },
+  "23": {
+    "index": 23,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_23.npz",
+    "skipped": false
+  },
+  "24": {
+    "index": 24,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_24.npz",
+    "skipped": false
+  },
+  "25": {
+    "index": 25,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_25.npz",
+    "skipped": false
+  },
+  "26": {
+    "index": 26,
+    "finger_ppg": true,
+    "glass_ppg": true,
+    "ultrasound_washout": true,
+    "ultrasound_video": true,
+    "eye_tracking": true,
+    "errors": [],
+    "npz": "p2_26.npz",
+    "skipped": false
+  }
+}
