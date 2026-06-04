@@ -313,15 +313,15 @@ def detect_blinks(
     print(f"Total blinks: {blink_counter}")
 
 
-if __name__ == "__main__":
-    detect_blinks(
-        input_video="/Users/lily/Downloads/2026-05-30 11-09-07.mov",
-        output_dir="/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/tools/ear_extractor",
-        output_video=True,
-        output_csv="ear.csv",
-        ear_threshold=0.15,
-        min_closed_frames=2,
-        max_closed_frames=15,
-        smoothing_window=3,
-        max_video_seconds=5,
-    )
+# if __name__ == "__main__":
+#     detect_blinks(
+#         input_video="/Users/lily/Downloads/2026-05-30 11-09-07.mov",
+#         output_dir="/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/tools/ear_extractor",
+#         output_video=True,
+#         output_csv="ear.csv",
+#         ear_threshold=0.15,
+#         min_closed_frames=2,
+#         max_closed_frames=15,
+#         smoothing_window=3,
+#         max_video_seconds=5,
+#     )
