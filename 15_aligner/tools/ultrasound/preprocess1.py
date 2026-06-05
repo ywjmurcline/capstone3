@@ -5,9 +5,9 @@ from scipy.signal import butter, lfilter
 from scipy.fftpack import fft
 import os
 try:
-    from tools.ultrasound.correlation import preprocess_corr
+    from tools.ultrasound.correlation1 import preprocess_corr
 except:
-    from correlation import preprocess_corr
+    from correlation1 import preprocess_corr
 
 # params
 C = 343.00 #声速
