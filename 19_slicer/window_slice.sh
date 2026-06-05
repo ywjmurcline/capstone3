@@ -4,7 +4,7 @@ set -e
 INPUT_DIR="/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/mym/npz"
 OUTPUT_DIR="/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/mym/windows"
 WINDOW=10
-STRIDE=1
+STRIDE=5
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
