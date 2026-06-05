@@ -262,12 +262,20 @@ def _arousal_bin(a: float):
 
 
 def _dominant_emotion(emotion_tag: dict):
-    """Returns the dominant emotion name, or None on tie."""
+    """Returns the dominant emotion name, or None on tie.
+    Tie-break: neutral vs exactly one non-neutral → pick non-neutral."""
     if not emotion_tag:
         return None
     max_val = max(emotion_tag.values())
+    if max_val == 0:
+        return None
     candidates = [k for k, v in emotion_tag.items() if v == max_val]
-    return candidates[0] if len(candidates) == 1 else None
+    if len(candidates) == 1:
+        return candidates[0]
+    non_neutral = [k for k in candidates if k != 'neutral']
+    if len(non_neutral) == 1:
+        return non_neutral[0]
+    return None
 
 
 def _resolve_label(trial: dict, gt_type: str, emotion_classes: list = None):

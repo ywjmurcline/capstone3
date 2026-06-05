@@ -49,7 +49,7 @@ skipped_trial_ref = sum(
 
 valence = np.array([t["ground_truth"]["valence"] for t in valid])
 arousal = np.array([t["ground_truth"]["arousal"] for t in valid])
-weights = np.array([weight_by_index.get(t["index"] + 1, 1) for t in valid], dtype=float)
+weights = np.array([weight_by_index.get(t["index"], 1) for t in valid], dtype=float)
 
 # ── Stats helpers ─────────────────────────────────────────────────────────────
 def weighted_stats(arr, w):

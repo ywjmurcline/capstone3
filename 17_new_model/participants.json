@@ -1,6 +1,14 @@
 [
   {
-    "participant_id": "yl",
-    "directory": "/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/yl"
+    "participant_id": "mym",
+    "directory": "/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/mym"
+  },
+  {
+    "participant_id": "ywj",
+    "directory": "/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/ywj"
+  },
+  {
+    "participant_id": "qishui",
+    "directory": "/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/qishui"
   }
 ]

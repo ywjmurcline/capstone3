@@ -16,7 +16,7 @@ MODE=single
 # ─────────────────────────────────────────────────────────────────────────────
 # SINGLE MODE
 # ─────────────────────────────────────────────────────────────────────────────
-BASE=/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/mym
+BASE=/Users/lily/Documents/myApps/Capstone_Saveme/15_aligner/data/qishui
 WINDOWS_DIR="$BASE/windows"
 TRIALS_JSON="$BASE/trials.json"
 
@@ -27,12 +27,12 @@ TRIALS_JSON="$BASE/trials.json"
 PARTICIPANTS_JSON=/Users/lily/Documents/myApps/Capstone_Saveme/17_new_model/participants.json
 
 # JSON list of participant IDs for training, e.g. '["mym","ywj"]'
-TRAIN_PARTICIPANTS='["mym"]'
+TRAIN_PARTICIPANTS='["qishui"]'
 
 # Test set definitions — JSON list; each element is one test evaluation.
 # A bare ID tests that participant alone; a JSON array combines multiple.
 # Example: '["mym", "abc", ["mym","abc"]]'
-TEST_PARTICIPANTS='["mym"]'
+TEST_PARTICIPANTS='["qishui"]'
 
 # Fraction of each participant's data reserved for the test set
 TEST_SPLIT=0.2
@@ -44,20 +44,20 @@ TEST_SPLIT=0.2
 WORK_DIR=/Users/lily/Documents/myApps/Capstone_Saveme/17_new_model/work_dir/cnn/$(date +%Y-%m-%d_%H-%M-%S)
 
 # Ground truth type: valence | arousal | va | emotion
-GT_TYPE=valence
+GT_TYPE=emotion
 
 # Required only when GT_TYPE=emotion — comma-separated emotion class names
 # Available tags: amusing, anger, disgust, fear, happy, neutral, sad
-# EMOTION_CLASSES="neutral,amusing,fear"
+EMOTION_CLASSES="neutral,amusing,fear,happy,disgust,sad"
 
 # Modalities: comma-separated subset of ppg, ear, ultrasound
-MODALITIES="ppg,ear"
+MODALITIES="ppg"
 
 # Signal variants
 #   PPG:  finger_pre | glass_pre | finger | glass
 #   EAR:  ear (Eye Aspect Ratio, continuous) | blink (binary)
 #   US:   nodiff | diff (frame-differenced)
-PPG_VARIANT=glass_pre
+PPG_VARIANT=finger_pre
 EAR_VARIANT=ear
 US_VARIANT=nodiff
 
